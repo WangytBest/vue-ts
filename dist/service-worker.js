@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.acd5758ddec2ad10b42d71ecb309ee5c.js"
+  "/precache-manifest.8982e50f5c08b4444a8db726c68e6cf6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "lab.happybug.top"});

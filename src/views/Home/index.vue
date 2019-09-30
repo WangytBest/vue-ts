@@ -3,10 +3,9 @@
   <div style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;z-index: 1;">
     <vueCanvasNest :config="{color:'#666'}" class="nest" />
   </div>
-  <h1 class="name">逍遥很晕</h1>
+  <h1 class="name">奶黄包</h1>
   <p class="info__item">职位：前端</p>
   <p class="info__item">技能：Vue全家桶、React全家桶、Node、TypeScript、Less、Scss、ES6、Webpack、Babel</p>
-  <p class="info__item">公司：现就职于美团</p>
 </div>
 </template>
 
